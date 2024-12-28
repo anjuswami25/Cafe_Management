@@ -1,12 +1,12 @@
-Restaurant Order System
+# Restaurant Order System
     This project is a Python Console Application that simulates a simple restaurant ordering system, allowing users to place orders for menu items and calculate the total bill.
 
-Introduction
-    I created this project to practice Python programming and enhance my understanding of user input handling, conditional statements, and dictionary operations. The application is designed to provide a user-          friendly way to select menu items and calculate the total cost of the order.
+# Introduction
+    I created this project to practice Python programming and enhance my understanding of user input handling, conditional statements, and dictionary operations. The application is designed to provide a user-friendly way to select menu items and calculate the total cost of the order.
     
     The project was built as a small but practical program, useful for beginners looking to learn the basics of Python. The system includes a predefined menu, handles user input for ordering, and validates the         availability of menu items.
 
-Functionalities
+# Functionalities
 1. Displaying the Menu
   The program displays a predefined menu with the available items and their respective prices:
   Pizza: Rs90
